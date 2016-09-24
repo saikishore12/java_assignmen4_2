@@ -1,0 +1,5 @@
+output is option C:
+
+prints:
+parent's method2()
+parent's method1()
